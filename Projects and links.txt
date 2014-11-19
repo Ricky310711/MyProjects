@@ -1,0 +1,69 @@
+Name:             SamsungTool
+Description:      A universal EFS backup app for samsung devices
+Dev status:       Ongoing
+Open source:      No
+Source code:      N/A
+Link to details:  http://forum.xda-developers.com/galaxy-s3/development/efs-samsung-tool-universal-support-t2602325
+
+Name:             Ricky310711 Rom Kitchen
+Description:      A kitchen for windows completely automated to build android roms
+Dev status:       Ongoing
+Open source:      Yes
+Source code:      https://github.com/Ricky310711/Ricky310711RomKitchen
+Link to details:  http://forum.xda-developers.com/showthread.php?t=2695356
+
+Name:             Modules repo for Ricky310711 Rom Kitchen
+Description:      A repository of modules compatible with Ricky310711 Rom Kitchen
+Dev status:       Ongoing
+Open source:      Yes
+Source code:      https://github.com/Ricky310711/RRK_Modules_Repo
+Link to details:  N/A
+
+Name:             Revolutionary S5
+Description:      A rom for the Samsung Galaxy S3 with S5 features
+Dev status:       Discontinued
+Open source:      No
+Source code:      N/A
+Link to details:  http://forum.xda-developers.com/galaxy-s3/development/rom-revolutionary-s5-v3-buy-s5-t2602543
+
+Name:             TangoTool
+Description:      TANGOTOOL - AIO tool for the ZTE-B790(boost tango), root, debrand, busybox, bash, init.d, unroot
+Dev status:       Ongoing
+Open source:      Yes
+Source code:      https://github.com/Ricky310711/TangoTool/tree/master/Decompiled
+Link to details:  http://forum.xda-developers.com/zte-blade/general/tool-tangotool-aio-tool-zte-b790boost-t2935377
+
+Name:             Folder locker PRO
+Description:      A folder locking program for windows
+Dev status:       Discontinued
+Open source:      Yes
+Source code:      https://github.com/Ricky310711/FolderLockerPRO
+Link to details:  http://forum.xda-developers.com/windows-8-rt/win-8-development/utility-folder-locker-pro-t2872391
+
+Name:             Quickmod Tool
+Description:      A tool to decompile android APK/JAR/classes.dex files
+Dev status:       Continued(userdelroot)
+Open source:      No
+Source code:      N/A
+Link to details:  http://forum.xda-developers.com/showthread.php?t=2536073
+
+Name:             Boot/Recovery unpacking/packing tools for windows
+Description:      A tool to unpack android kernels and recovery's
+Dev status:       Discontinued
+Open source:      No
+Source code:      N/A
+Link to details:  http://forum.xda-developers.com/showthread.php?t=2674971
+
+Name:             RTL Kernel
+Description:      A kernel made by me for the Samsung Galaxy S3
+Dev status:       Discontinued
+Open source:      Yes
+Source code:      https://github.com/Ricky310711/RTL_KERNEL
+Link to details:  N/A
+
+Name:             New to ADB and Fastboot guide/tools
+Description:      A guide and basic package for beginners to ADB and Fastboot use
+Dev status:       Ongoing
+Open source:      Yes
+Source code:      https://github.com/Ricky310711/ADB-Fastboot-Tools
+Link to details:  http://forum.xda-developers.com/showthread.php?t=2225405 
